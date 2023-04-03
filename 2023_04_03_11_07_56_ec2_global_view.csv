@@ -1,0 +1,109 @@
+﻿Name,Region,Resource ID,Resource Type,Tag Key,Tag Value
+–,ap-southeast-1,vpc-01d819c31521c69ee,Vpc
+–,ap-southeast-1,sg-051973c6f3d8da965,SecurityGroup
+–,ap-southeast-1,subnet-0c4619e1959e0163f,Subnet
+–,ap-southeast-1,subnet-0101e43111a20b368,Subnet
+–,ap-southeast-1,subnet-06a1b80cadef9a506,Subnet
+–,ap-south-1,sg-0044817f342be56d5,SecurityGroup
+–,ap-south-1,vpc-05e65ac1195c1205d,Vpc
+–,ap-northeast-3,subnet-0d508174704c5f2d3,Subnet
+–,ap-northeast-3,subnet-09b18898bc77bf754,Subnet
+–,ap-northeast-3,subnet-09aa84923ec4ec4bc,Subnet
+–,ap-south-1,subnet-04b6b16fae0a48279,Subnet
+–,ap-south-1,subnet-0107e3ea11e6ea81b,Subnet
+–,ap-south-1,subnet-0ffd07bdbb8603fef,Subnet
+–,ap-northeast-3,vpc-028a44013c84e17f9,Vpc
+–,ap-northeast-3,sg-081caa36e2f4b625a,SecurityGroup
+Web Server Security Group,us-west-2,i-0cdea4175f6a18104,Instance,Name,Web Server Security Group
+Lab VPC,us-west-2,vpc-0e12235560a920817,Vpc,aws:cloudformation:logical-id,LabVPC
+Lab VPC,us-west-2,vpc-0e12235560a920817,Vpc,aws:cloudformation:stack-id,arn:aws:cloudformation:us-west-2:238865396155:stack/c80248a1685277l3865419t1w238865396155/5f485470-d1cd-11ed-9897-0a5d582d67bd
+Lab VPC,us-west-2,vpc-0e12235560a920817,Vpc,Name,Lab VPC
+Lab VPC,us-west-2,vpc-0e12235560a920817,Vpc,aws:cloudformation:stack-name,c80248a1685277l3865419t1w238865396155
+Lab VPC,us-west-2,vpc-0e12235560a920817,Vpc,cloudlab,c80248a1685277l3865419t1w238865396155
+–,us-west-2,vpc-0d021c1db2a415fed,Vpc,,
+Public Subnet 1,us-west-2,subnet-0e765d02858534e7a,Subnet,aws:cloudformation:stack-name,c80248a1685277l3865419t1w238865396155
+Public Subnet 1,us-west-2,subnet-0e765d02858534e7a,Subnet,aws:cloudformation:stack-id,arn:aws:cloudformation:us-west-2:238865396155:stack/c80248a1685277l3865419t1w238865396155/5f485470-d1cd-11ed-9897-0a5d582d67bd
+Public Subnet 1,us-west-2,subnet-0e765d02858534e7a,Subnet,cloudlab,c80248a1685277l3865419t1w238865396155
+Public Subnet 1,us-west-2,subnet-0e765d02858534e7a,Subnet,aws:cloudformation:logical-id,LabSubnet1
+Public Subnet 1,us-west-2,subnet-0e765d02858534e7a,Subnet,Name,Public Subnet 1
+–,us-west-2,subnet-0f907c1a0a9789aa4,Subnet,,
+–,us-west-2,subnet-0d9e83890fe632c98,Subnet,,
+Public Subnet 2,us-west-2,subnet-089d9af59af0d626b,Subnet,aws:cloudformation:logical-id,LabSubnet2
+Public Subnet 2,us-west-2,subnet-089d9af59af0d626b,Subnet,Name,Public Subnet 2
+Public Subnet 2,us-west-2,subnet-089d9af59af0d626b,Subnet,aws:cloudformation:stack-id,arn:aws:cloudformation:us-west-2:238865396155:stack/c80248a1685277l3865419t1w238865396155/5f485470-d1cd-11ed-9897-0a5d582d67bd
+Public Subnet 2,us-west-2,subnet-089d9af59af0d626b,Subnet,aws:cloudformation:stack-name,c80248a1685277l3865419t1w238865396155
+Public Subnet 2,us-west-2,subnet-089d9af59af0d626b,Subnet,cloudlab,c80248a1685277l3865419t1w238865396155
+–,us-west-2,subnet-0de77a7b1938d565c,Subnet,,
+–,us-west-2,subnet-0be9bedb6b5d867c9,Subnet,,
+–,us-west-2,sg-037d2e6172392e625,SecurityGroup,,
+–,us-west-2,sg-04694eb2613c73a6a,SecurityGroup,,
+–,us-west-2,sg-0a7b9f66058b0e1cc,SecurityGroup,,
+–,ap-northeast-2,vpc-0f3f6477862bfc53d,Vpc,,
+–,ap-northeast-2,sg-001487437a8659dbe,SecurityGroup,,
+–,ap-northeast-2,subnet-06d7eef44b716134a,Subnet,,
+–,ap-northeast-2,subnet-0437975a8210fd64a,Subnet,,
+–,ap-northeast-2,subnet-0f6670db00f09b1bc,Subnet,,
+–,ap-northeast-2,subnet-02e7f43aaafd0927e,Subnet,,
+–,ap-northeast-1,subnet-0922069fe37134fe8,Subnet,,
+–,ap-northeast-1,subnet-069810a24d0cdd42d,Subnet,,
+–,ap-northeast-1,subnet-0c653e8b6273588b2,Subnet,,
+–,ap-northeast-1,vpc-0bd7aed1a47e0bdd9,Vpc,,
+–,eu-west-3,sg-0859cb51b05de1443,SecurityGroup,,
+–,us-west-1,vpc-0a109fe10db706eaf,Vpc,,
+–,eu-west-3,vpc-04c0f47195a4a1a0e,Vpc,,
+–,ap-southeast-2,vpc-016fab7eee2285a7f,Vpc,,
+–,ap-southeast-2,subnet-0d201da9c5dfcd1cc,Subnet,,
+–,ap-southeast-2,subnet-0e56af319f11ec85d,Subnet,,
+–,ap-southeast-2,subnet-07c89ca5018df4420,Subnet,,
+–,eu-west-3,subnet-02382af006b857b4d,Subnet,,
+–,eu-west-3,subnet-03267253852ee80ed,Subnet,,
+–,eu-west-3,subnet-0c4727a12e0b5e503,Subnet,,
+–,us-east-1,vpc-0a0d9f79344554e48,Vpc,,
+–,eu-west-2,sg-034e8f006c55d4845,SecurityGroup,,
+–,ap-northeast-1,sg-0b082864c8a935079,SecurityGroup,,
+–,eu-north-1,vpc-00c3727b6c8dbafa6,Vpc,,
+–,us-west-1,subnet-0935928ed8898ffdd,Subnet,,
+–,us-west-1,subnet-0bd014ce1709e555e,Subnet,,
+–,eu-west-2,vpc-0db0141c0e6308ed2,Vpc,,
+–,ap-southeast-2,sg-0e9374c86306f1235,SecurityGroup,,
+–,eu-west-2,subnet-0678f58a0cae441ae,Subnet,,
+–,eu-west-2,subnet-060a8e0a4179abbe2,Subnet,,
+–,eu-west-2,subnet-04e61ef3a81b0cb43,Subnet,,
+–,eu-west-1,vpc-059c9f42843237eb5,Vpc,,
+–,ca-central-1,vpc-0ef12b83ff292ed0b,Vpc,,
+–,us-west-1,sg-0b99edec3550b4771,SecurityGroup,,
+–,ca-central-1,sg-039dfb4e81ef7911a,SecurityGroup,,
+–,eu-north-1,subnet-06527dce799929ec6,Subnet,,
+–,eu-north-1,subnet-0d506a9e415acf093,Subnet,,
+–,eu-north-1,subnet-00592362bb66819b0,Subnet,,
+–,us-east-2,vpc-01f64dc8c22b9584b,Vpc,,
+–,eu-west-1,subnet-07d12f995f529760a,Subnet,,
+–,eu-west-1,subnet-05b28033be9a8a55a,Subnet,,
+–,eu-west-1,subnet-0d16fe6afd242c300,Subnet,,
+–,eu-central-1,subnet-0aaabf4a652b530a2,Subnet,,
+–,eu-central-1,subnet-06a4698b13f31a170,Subnet,,
+–,eu-central-1,subnet-00c58f3d64f28f122,Subnet,,
+–,ca-central-1,subnet-0f76ae69c5e4b6604,Subnet,,
+–,ca-central-1,subnet-0b94fc166c78b65ff,Subnet,,
+–,ca-central-1,subnet-0d62933ab9adecdbd,Subnet,,
+–,eu-west-1,sg-088c15d9cd0948eff,SecurityGroup,,
+–,us-east-1,sg-03a2fc6952d629362,SecurityGroup,,
+–,eu-central-1,vpc-05243a83b0d18ded8,Vpc,,
+–,eu-central-1,sg-00fc7e4b457cf5225,SecurityGroup,,
+–,eu-north-1,sg-08045d2e36b785c75,SecurityGroup,,
+–,us-east-2,subnet-0e1c7cc3e376389f5,Subnet,,
+–,us-east-2,subnet-06a9774fb60b5f4a5,Subnet,,
+–,us-east-2,subnet-06ca8ee17338c5475,Subnet,,
+–,us-east-2,sg-0b67b1538da00aeef,SecurityGroup,,
+–,us-east-1,subnet-0a2b434f18c45b4cd,Subnet,,
+–,us-east-1,subnet-0a2098588839cdb04,Subnet,,
+–,us-east-1,subnet-0bb8d5e9402db0b76,Subnet,,
+–,us-east-1,subnet-044e7c75e3cca47ed,Subnet,,
+–,us-east-1,subnet-004f884703a4e5546,Subnet,,
+–,us-east-1,subnet-051ae9b0d11106722,Subnet,,
+–,sa-east-1,vpc-04619a7bbb9af9597,Vpc,,
+–,sa-east-1,sg-0e8df2d0524b0c466,SecurityGroup,,
+–,sa-east-1,subnet-0974aca022a3acaf7,Subnet,,
+–,sa-east-1,subnet-06579eb95251dfbc3,Subnet,,
+–,sa-east-1,subnet-09967cebd681d15e4,Subnet,,
+–,us-west-2,vol-092b30f4077c2bca7,Volume,,
